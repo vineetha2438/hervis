@@ -1,0 +1,14 @@
+.wipContainer{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.logo{
+  margin-bottom: 10vh;
+  margin-top: 10px;
+  width: 30vw;
+}
+
+.constructionImage{
+  width: 100vw;
+}

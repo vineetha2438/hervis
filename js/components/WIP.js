@@ -4,7 +4,6 @@
 
 import React, {Component} from "react";
 import ReactDOM from "react-dom";
-import Dimensions from 'react-dimensions';
 import './../../styles/wip.css';
 
 export default class WIP extends Component {

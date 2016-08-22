@@ -2,11 +2,13 @@
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
+  height: 100vh;
+  overflow: hidden;
 }
+
 .logo{
-  margin-bottom: 10vh;
   margin-top: 10px;
-  width: 30vw;
+  width: 20vw;
 }
 
 .constructionImage{
